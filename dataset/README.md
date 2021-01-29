@@ -5,7 +5,7 @@ All the hourly energy consumption data comes from office buildings located in Sh
 In the meanwhile, weather data is given in the dataset. And the weather data is collected by a real weather station in Shanghai, China.     
 
 ### test building dataset
-* test building information     
+#### test building information     
 Basic building information and some physical parameters of the test building.     
 Including:     
 - Area
@@ -15,21 +15,21 @@ Including:
 - Description of some energy-saving measures on building envelope
 - Equipment information of the HVAC system (number and capacity of chillers and pumps)      
 
-* test building records     
+#### test building records     
 The actual records of the hourly historical data of two meter types in 2017 for the test building.       
 Including variables:      
 - Time: timestamp
 - Type: meter type (“Q” for light and plug and “W” for HVAC system)
 - Record: hourly electric consumption (kWh)      
 
-* floor plan
+#### floor plan
 Construction drawings of the target building.     
 Including:     
 - 7 typical floor plans in jpg format
 - Brief introduction of the floor plans
 
 ### reference building dataset
-* reference building information     
+#### reference building information     
 Basic building information of the reference building.     
 Including:     
 - BuildingID: serial number of the reference building
@@ -39,7 +39,7 @@ Including:
 - Area (m^2)
 - HVACType: Type of HVAC terminals   
 
-* reference building records     
+#### reference building records     
 Hourly energy consumption data of the reference buildings during 2015 to 2017 in csv format.       
 Including variables:      
 - Time: timestamp   
