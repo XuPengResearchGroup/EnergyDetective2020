@@ -1,4 +1,4 @@
-﻿Timestamp,Air temperatue,Dew-point temperature,Relative humidity,Atmosphere pressure,Wind speed
+﻿Timestamp,Air temperatue,Dew point temperature,Relative humidity,Atmospheric pressure,Wind speed
 2015-01-01 00:00:00,1.5,-12,36.5,1033,16.2
 2015-01-01 01:00:00,1,-10.5,42.5,1033,14.4
 2015-01-01 02:00:00,1,-11,41,1033,18
